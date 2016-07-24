@@ -1,0 +1,2289 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sharp\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-07-23 14:58+1000\n"
+"PO-Revision-Date: 2016-07-24 21:27+1000\n"
+"Last-Translator: Mrcomputer1 <mrcomputer1email@gmail.com>\n"
+"Language-Team: <>\n"
+"Language: meow\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:1
+msgid "%b and %b"
+msgstr "%b ANND %b"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:2
+msgid "%b or %b"
+msgstr "%b OR %b"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:3
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute OF %m.spriteOrStage"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:4
+msgid "%m.httpMethod %s"
+msgstr "%m.httpMethod %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:5
+msgid "%m.list contains %s?"
+msgstr "%m.list HAZ %s?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:6
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp OF %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:7
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor SSENSOR VALUEE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:8
+msgid "%n ^ %n"
+msgstr "%n ^ %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:9
+msgid "%n mod %n"
+msgstr "%n MOD %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:10
+msgid "%s"
+msgstr "%s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:11
+msgid "// %s"
+msgstr "// %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:12
+msgid "add %s to %m.list"
+msgstr "ADDZ %s TO %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:13
+msgid "answer"
+msgstr "ANWSER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:14
+msgid "ask %s and wait"
+msgstr "ASK %s AND WAIT............"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:15
+msgid "ask %s with dialog %s"
+msgstr "ASK %s WITH A DIALOG %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:16
+msgid "backdrop #"
+msgstr "BACK DROP #"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:17
+msgid "backdrop name"
+msgstr "WHAT IS THE BACK DROP CALLD?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:18
+msgid "broadcast %m.broadcast"
+msgstr "YELL %m.broadcast"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:19
+msgid "broadcast %m.broadcast and wait"
+msgstr "YELL %m.broadcast AND WAIT.........."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:20
+msgid "change %m.effect effect by %n"
+msgstr "CHNGE %m.effect EFFECTT BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:21
+msgid "change %m.var by %n"
+msgstr "CHNGE %m.var BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:22
+msgid "change pen color by %n"
+msgstr "CHNGE PEN COLORR BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:23
+msgid "change pen shade by %n"
+msgstr "CHNGE PEN SAHDE BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:24
+msgid "change pen size by %n"
+msgstr "CHNGE PEN BIGNESS BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:25
+msgid "change size by %n"
+msgstr "CHNGE BIGNESS BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:26
+msgid "change tempo by %n"
+msgstr "CHNGE TEMPO BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:27
+msgid "change volume by %n"
+msgstr "CHNGE LOUDNESS BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:28
+msgid "change x by %n"
+msgstr "CHNGE X BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:29
+msgid "change y by %n"
+msgstr "CHNGE Y BY %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:30
+msgid "clear"
+msgstr "CLAER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:31
+msgid "clear counter"
+msgstr "CLAER COUNTING THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:32
+msgid "clear graphic effects"
+msgstr "CLAER EFEFCTS STUFF"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:33
+msgid "color %c is touching %c?"
+msgstr "COLOR %c TOUCHIGN %c?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:34
+msgid "confirm %s"
+msgstr "CONFIRMZ %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:35
+msgid "Control"
+msgstr "CONTRL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:36
+msgid "costume #"
+msgstr "COSTUME #"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:37
+msgid "counter"
+msgstr "COUNTING THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:38
+msgid "create clone of %m.spriteOnly"
+msgstr "MAKE MORE OF %m.spriteOnly"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:39
+msgid "current %m.timeAndDate"
+msgstr "WHAT IS VALUE OF %m.timeAndDate"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:40
+msgid "Data"
+msgstr "VARS & LISTS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:41
+msgid "days since 2000"
+msgstr "DAYS FROM 2000"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:42
+msgid "define"
+msgstr "DEFINE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:43
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "RM %d.listDeleteItem OF %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:44
+msgid "delete this clone"
+msgstr "RM THIS EXTRA THING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:45
+msgid "digital root of %n"
+msgstr "DIGI ROOOT OF %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:46
+msgid "direction"
+msgstr "GOING IN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:47
+msgid "distance"
+msgstr "HOW FAR APART"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:48
+msgid "distance to %m.spriteOrMouse"
+msgstr "HOW FAR APART FROM %m.spriteOrMouse"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:49
+msgid "else"
+msgstr "otherwize do"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:50
+msgid "Events"
+msgstr "EVENTZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:51
+msgid "false"
+msgstr "no"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:52
+msgid "Files"
+msgstr "FILEZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:53
+msgid "for each %m.var in %s"
+msgstr "FOR ALL OF %m.var in %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:54
+msgid "forever"
+msgstr "ALWYAS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:55
+msgid "glide %n secs to x:%n y:%n"
+msgstr "SLIDE %n SECS TO X:%n Y:%n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:56
+msgid "go back %n layers"
+msgstr "GO BACK %n LAYERS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:57
+msgid "go to %m.location"
+msgstr "MOVE TO %m.location"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:58
+msgid "go to front"
+msgstr "GO TO FRONT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:59
+msgid "go to x:%n y:%n"
+msgstr "MOVE TO X:%n Y:%n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:60
+msgid "hide"
+msgstr "MY EYES CAN'T SEE THE SPRITE!"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:61
+msgid "hide list %m.list"
+msgstr "WHERE DID LIST %m.list GO?? :O"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:62
+msgid "hide variable %m.var"
+msgstr "WHERE DID VAR %m.var GO?? :O"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:63
+msgid "HTTP"
+msgstr "PTTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:64
+msgid "http return"
+msgstr "PTTH RETURN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:65
+msgid "if %b then"
+msgstr "IF %B THEN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:66
+msgid "if on edge, bounce"
+msgstr "IF ON EDGE BOUNCE!!"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:67
+msgid "incr counter"
+msgstr "+ COUNT THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:68
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "ADD %s AT %d.listItem OF %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:69
+msgid "is in editor?"
+msgstr "IS EDIITING?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:70
+msgid "is in fullscreen?"
+msgstr "IS BIGSCREEN?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:71
+msgid "item %d.listItem of %m.list"
+msgstr "ITEM %d.listItem OF %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:72
+msgid "join %s %s"
+msgstr "%s + %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:73
+msgid "key %m.key pressed?"
+msgstr "PAW PRESSING ON %m.key?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:74
+msgid "length of %m.list"
+msgstr "SIZE OF %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:75
+msgid "length of %s"
+msgstr "SIZE OF %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:76
+msgid "letter %n of %s"
+msgstr "LETTER %n OF %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:77
+msgid "load file"
+msgstr "LOAD A FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:78
+msgid "loaded file data"
+msgstr "LOADED FILE DATA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:79
+msgid "loaded file name"
+msgstr "LOADED FILE NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:80
+msgid "Looks"
+msgstr "LOOKZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:81
+msgid "loudness"
+msgstr "loudness"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:82
+msgid "More Blocks"
+msgstr "MOAR BLOCKZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:83
+msgid "Motion"
+msgstr "MOVEMENT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:84
+msgid "mouse down?"
+msgstr "PAW PRESSING ON MOUSE?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:85
+msgid "mouse x"
+msgstr "MOUSE X"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:86
+msgid "mouse y"
+msgstr "MOUSE Y"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:87
+msgid "move %n steps"
+msgstr "MOVE %s STEPS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:88
+msgid "next backdrop"
+msgstr "NEXT BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:89
+msgid "next costume"
+msgstr "NEXT COSTUME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:90
+msgid "not %b"
+msgstr "NOT %b"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:91
+msgid "notify %s title %s"
+msgstr "OPEN A BOX DAT MEWS %s CALLED %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:92
+msgid "Operators"
+msgstr "OPERATORZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:93
+msgid "Pen"
+msgstr "DRAWING TOOLS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:94
+msgid "pen down"
+msgstr "DRAW TOOL ON"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:95
+msgid "pen up"
+msgstr "DRAW TOOL OFF"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:96
+msgid "pick random %n to %n"
+msgstr "RANDOM %n TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:97
+msgid "play drum %d.drum for %n beats"
+msgstr "HIT DRUM THINGY %d.drum FOR %n TIMEING THING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:98
+msgid "play note %d.note for %n beats"
+msgstr "MAKE ODD NOISES %d.note FOR %n TIMEING THING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:99
+msgid "play sound %m.sound"
+msgstr "MAKE A NOISE %m.sound"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:100
+msgid "play sound %m.sound until done"
+msgstr "MAKE NOISE AND DON'T STOP UNTIL DONE %m.sound"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:101
+msgid "point in direction %d.direction"
+msgstr "AIM IN DIRECTION %d.direction"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:102
+msgid "point towards %m.spriteOrMouse"
+msgstr "AIM TOWARDS %m.spriteOrMouse"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:103
+msgid "repeat %n"
+msgstr "REPEAT %n TIMES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:104
+msgid "repeat until %b"
+msgstr "REPEAT UNTIL %b"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:105
+msgid "replace %s in %s with %s"
+msgstr "REPLACE %s IN %s WITH %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:106
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "REPLACE ITEM %d.listItem OF %m.list WITH %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:107
+msgid "report %s"
+msgstr "REPORT %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:108
+msgid "reset timer"
+msgstr "RESET TIMER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:109
+msgid "rest for %n beats"
+msgstr "REST FOR %n TIMEING THING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:110
+msgid "reverse %s"
+msgstr "SWITCH AROUND %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:111
+msgid "round %n"
+msgstr "ROUND NUMBER %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:112
+msgid "save %s to file %s"
+msgstr "STORE %s IN FILE %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:113
+msgid "say %s"
+msgstr "SAY %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:114
+msgid "say %s for %n secs"
+msgstr "SAY %s FOR %n SECS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:115
+msgid "Sensing"
+msgstr "SENSING STUFF"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:116
+msgid "sensor %m.booleanSensor?"
+msgstr "SENSOR %m.booleanSensor?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:117
+msgid "set %m.effect effect to %n"
+msgstr "SET %m.effect EFFECT TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:118
+msgid "set %m.motor power to %n"
+msgstr "SET %m.motor POWER TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:119
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "SET %m.motor2 DIRECTION TO %m.motorDirection"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:120
+msgid "set %m.var to %s"
+msgstr "SET %m.var TO %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:121
+msgid "set instrument to %d.instrument"
+msgstr "SET INSTRUMENT TO %d.instrument"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:122
+msgid "set pen color to %c"
+msgstr "SET DRAW THING COLOR TO %c"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:123
+msgid "set pen color to %n"
+msgstr "SET DRAW THING COLOR TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:124
+msgid "set pen shade to %n"
+msgstr "SET DRAW THING SHADE TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:125
+msgid "set pen size to %n"
+msgstr "SET DRAW THING BIGNESS TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:126
+msgid "set rotation style %m.rotationStyle"
+msgstr "SET ROTATION STYLE %m.rotationStyle"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:127
+msgid "set size to %n%"
+msgstr "SET BIGNESS TO %n%"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:128
+msgid "set tempo to %n bpm"
+msgstr "SET TEMPO TO %n BPM"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:129
+msgid "set video transparency to %n%"
+msgstr "SET VID TRANSPARENCY TO %n%"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:130
+msgid "set volume to %n%"
+msgstr "SET LOUDNESS TO %n%"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:131
+msgid "set x to %n"
+msgstr "SET X TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:132
+msgid "set y to %n"
+msgstr "SET Y TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:133
+msgid "Sharp version"
+msgstr "SHARP VERSION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:134
+msgid "show"
+msgstr "MY EYES CAN SEE THE SPRITE!"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:135
+msgid "show list %m.list"
+msgstr "I CAN SEE LIST %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:136
+msgid "show variable %m.var"
+msgstr "I CAN SEE VAR %m.var"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:137
+msgid "size"
+msgstr "BIGNESS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:138
+msgid "Sound"
+msgstr "NOISES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:139
+msgid "split %s at %s and return %n"
+msgstr "SPLIT %s AT %s AND RETURN %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:140
+msgid "split %s at %s and return to %m.list"
+msgstr "SPLIT %s AT %s AND RETURN TO %m.list"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:141
+msgid "split %s from letter %n to %n"
+msgstr "SPLIT %s FROM LETTER %n TO %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:142
+msgid "stamp"
+msgstr "STAMP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:143
+msgid "stop %m.stop"
+msgstr "STOP %m.stop"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:144
+msgid "stop all sounds"
+msgstr "STOP ALL SOUNDZ"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:145
+msgid "switch backdrop to %m.backdrop"
+msgstr "SWITCH BACK DROP TO %m.backdrop"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:146
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "SWITCH BACK DROP TO %m.backdrop AND WAIT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:147
+msgid "switch costume to %m.costume"
+msgstr "SWITCH COSTUME TO %m.costume"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:148
+msgid "tempo"
+msgstr "TEMPO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:149
+msgid "the constant %m.constantName"
+msgstr "THE THING %m.constantName"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:150
+msgid "think %s"
+msgstr "I'M THINKING %s"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:151
+msgid "think %s for %n secs"
+msgstr "I'M THINKING %s FOR %n SECS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:152
+msgid "tilt"
+msgstr "TILT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:153
+msgid "timer"
+msgstr "TIMER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:154
+msgid "touching %m.touching?"
+msgstr "TOUCHING %m.touching?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:155
+msgid "touching color %c?"
+msgstr "TOUCHING COLOR %c?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:156
+msgid "true"
+msgstr "YES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:157
+msgid "turn %m.motor off"
+msgstr "MAKE %m.motor BE OFF"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:158
+msgid "turn %m.motor on"
+msgstr "MAKE %m.motor BE ON"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:159
+msgid "turn %m.motor on for %n secs"
+msgstr "MAKE %m.motor BE ON FOR %n SECS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:160
+msgid "turn @turnLeft %n degrees"
+msgstr "MAKE MOTOR @turnLeft FOR %n DEGREES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:161
+msgid "turn @turnRight %n degrees"
+msgstr "MAKE MOTOR @turnRight FOR %n DEGREES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:162
+msgid "turn video %m.videoState"
+msgstr "MAKE VIDEO BE %m.videoState"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:163
+msgid "using turbo mode?"
+msgstr "USING SUPER-FAST MODE?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:164
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "VID %m.videoMotionType ON %m.stageOrThis"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:165
+msgid "volume"
+msgstr "LOUDNESS V"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:166
+msgid "wait %n secs"
+msgstr "PAUSE FOR %n SECS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:167
+msgid "wait until %b"
+msgstr "PAUSE UNTIL %b"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:168
+msgid "when %m.booleanSensor"
+msgstr "ON %m.booleanSensor"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:169
+msgid "when %m.key key pressed"
+msgstr "ON %m.key KEY PRESSED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:170
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "ON %m.sensor %m.lessMore %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:171
+msgid "when %m.triggerSensor > %n"
+msgstr "ON %m.triggerSensor > %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:172
+msgid "when @greenFlag clicked"
+msgstr "ON @greenFlag CLICKED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:173
+msgid "when backdrop switches to %m.backdrop"
+msgstr "ON BACK DROP SWITCHES TO %m.backdrop"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:174
+msgid "when distance %m.lessMore %n"
+msgstr "ON DISTANCE %m.lessMore %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:175
+msgid "when I receive %m.broadcast"
+msgstr "ON I RECEIVE %m.broadcast"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:176
+msgid "when I start as a clone"
+msgstr "ON START AS CLONE "
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:177
+msgid "when Stage clicked"
+msgstr "ON STAGE CLICKED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:178
+msgid "when this sprite clicked"
+msgstr "ON THIS SPRITE CLICKED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:179
+msgid "when tilt %m.eNe %n"
+msgstr "ON TILT %m.eNe %n"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:180
+msgid "x position"
+msgstr "X POSITION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:181
+msgid "y position"
+msgstr "Y POSITION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:182
+msgid "*Owner, # Non-Sharp Member"
+msgstr "*OWNER, #NOT SHARP MEMBER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:183
+msgid "10 ^"
+msgstr "10 ^"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:184
+msgid "A connected"
+msgstr "A CONNECTED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:185
+msgid "a copy of the project file on your computer."
+msgstr "A COPY OF THIS PROJECT IS ON UR COMPUTER."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:186
+msgid "About"
+msgstr "ABOUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:187
+msgid "About Sharp"
+msgstr "ABOUT SHARP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:188
+msgid "abs"
+msgstr "ABS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:189
+msgid "acos"
+msgstr "ACOS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:190
+msgid "Add"
+msgstr "ADD"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:191
+msgid "Add an Extension"
+msgstr "ADD AN EXT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:192
+msgid "Add boolean input:"
+msgstr "ADD BOOL INPUT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:193
+msgid "add comment"
+msgstr "ADD COMMENT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:194
+msgid "Add label text:"
+msgstr "ADD LABEL TEXT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:195
+msgid "Add number input:"
+msgstr "ADD NUMBER INPUT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:196
+msgid "Add string input:"
+msgstr "ADD STRING INPUT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:197
+msgid "all"
+msgstr "ALL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:198
+msgid "All"
+msgstr "ALL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:199
+msgid "all around"
+msgstr "ALL AROUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:200
+msgid "Allow sound"
+msgstr "ALLOW SOUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:201
+msgid "Always in turbo mode"
+msgstr "ALWAYS IN SUPER-FAST MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:202
+msgid "Animal"
+msgstr "ANIMAL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:203
+msgid "Animals"
+msgstr "ANIMALS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:204
+msgid "any"
+msgstr "ANY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:205
+msgid "asin"
+msgstr "ASIN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:206
+msgid "atan"
+msgstr "ATAN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:207
+msgid "B connected"
+msgstr "B CONNECTED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:208
+msgid "Back a layer"
+msgstr "BACK A LAYER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:209
+msgid "Backdrop"
+msgstr "BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:210
+msgid "backdrop"
+msgstr "BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:211
+msgctxt "duplicate :211:17:211"
+msgid "backdrop #"
+msgstr "BACK DROP #"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:212
+msgid "Backdrop Library"
+msgstr "BACK DROP LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:213
+msgctxt "duplicate :213:18:213"
+msgid "backdrop name"
+msgstr "BACK DROP NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:214
+msgid "backdrop1"
+msgstr "BACK DROP 1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:215
+msgid "Backdrops"
+msgstr "BACK DROPS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:216
+msgid "backdrops"
+msgstr "BACK DROPS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:217
+msgid "Backpack"
+msgstr "BACKPACK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:218
+msgid "Based on Scratch 2.0 from the MIT Media Lab"
+msgstr "BASED ON SCRATCH 2 FROM MIT MEDIA LAB"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:219
+msgid "Bass"
+msgstr "BASS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:220
+msgid "Bass Drum"
+msgstr "BASS DRUM"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:221
+msgid "Bassoon"
+msgstr "BASSOON"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:222
+msgid "Bitmap"
+msgstr "BITMAP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:223
+msgid "Bitmap Mode"
+msgstr "BITMAP MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:224
+msgid "Block help"
+msgstr "BLCOK HELP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:225
+msgid "Bongo"
+msgstr "BONGO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:226
+msgid "brightness"
+msgstr "BRIGTNESS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:227
+msgid "Bring to front"
+msgstr "BRING TO FRONT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:228
+msgid "Broadcast"
+msgstr "YELL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:229
+msgid "Brush"
+msgstr "BRUSH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:230
+msgid "button pressed"
+msgstr "BTN PRESSED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:231
+msgid "by"
+msgstr "BY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:232
+msgid "C connected"
+msgstr "C CONNECTED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:233
+msgid "Cabasa"
+msgstr "CACASA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:234
+msgid "Camera"
+msgstr "CAMERA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:235
+msgid "can drag in player:"
+msgstr "CAN DRAG IN PLAYER:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:236
+msgid "Cancel"
+msgstr "CANCEL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:237
+msgid "Cannot Delete"
+msgstr "CANNOT DELETE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:238
+msgid "Castle"
+msgstr "CASTLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:239
+msgid "Category"
+msgstr "CATEGORY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:240
+msgid "ceiling"
+msgstr "CEILING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:241
+msgid "Cello"
+msgstr "CELLO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:242
+msgid "Choir"
+msgstr "CHOIR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:243
+msgid "Choose backdrop from library"
+msgstr "CHOOSE BACK DROP FROM LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:244
+msgid "Choose costume from library"
+msgstr "CHOOSE COSTUME FROM LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:245
+msgid "Choose sound from library"
+msgstr "CHOOSE SOUND FROM LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:246
+msgid "Choose sprite from library"
+msgstr "CHOOSE SPRITE FROM LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:247
+msgid "Circle"
+msgstr "CIRCLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:248
+msgid "City"
+msgstr "CITY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:249
+msgid "Clarinet"
+msgstr "CLARINET"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:250
+msgid "Claves"
+msgstr "CLAVES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:251
+msgid "clean up"
+msgstr "CLEAN UP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:252
+msgid "Clear"
+msgstr "CLEAR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:253
+msgid "clear senders/receivers"
+msgstr "CLEAR SENDERS/RECEIVERS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:254
+msgid "Clone limit"
+msgstr "CLONE LIMIT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:255
+msgid "Close"
+msgstr "CLOSE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:256
+msgid "Closed Hi-Hat"
+msgstr "CLOSED HI-HAT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:257
+msgid "color"
+msgstr "COLOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:258
+msgid "Color a shape"
+msgstr "COLOR A SHAPE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:259
+msgid "Conga"
+msgstr "CONGA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:260
+msgid "Content"
+msgstr "CONTENT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:261
+msgid "Convert to bitmap"
+msgstr "CONVERT TO BITMAP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:262
+msgid "Convert to vector"
+msgstr "CONVERT TO VECTOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:263
+msgid "Converting mp3..."
+msgstr "CONVERTING MP3..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:264
+msgid "copy"
+msgstr "COPY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:265
+msgid "cos"
+msgstr "COS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:266
+msgid "Costume"
+msgstr "COSTUME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:267
+msgid "Costume Library"
+msgstr "COSTUME LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:268
+msgid "costume1"
+msgstr "COSTUME 1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:269
+msgid "Costumes"
+msgstr "COSTUMES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:270
+msgid "Costumes > 1"
+msgstr "COSTUMES > 1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:271
+msgid "Cowbell"
+msgstr "COWBELL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:272
+msgid "Crash Cymbal"
+msgstr "CRASH CYMBAL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:273
+msgid "Credits"
+msgstr "CREDITS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:274
+msgid "cut"
+msgstr "CUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:275
+msgid "D connected"
+msgstr "D CONNECTED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:276
+msgid "Dance"
+msgstr "DANCE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:277
+msgid "date"
+msgstr "DATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:278
+msgid "day of week"
+msgstr "DAY OF WEEK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:279
+msgid "Delete"
+msgstr "DELETE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:280
+msgid "delete"
+msgstr "DELETE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:281
+msgid "delete variable"
+msgstr "DELETE VAR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:282
+msgctxt "duplicate :282:47:282"
+msgid "direction"
+msgstr "DIRECTION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:283
+msgid "direction:"
+msgstr "DIRECTION:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:284
+msgid "Do you really want to reset settings?"
+msgstr "DO YOU REALLY WANT TO LOSE ALL YA SETTINGS?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:285
+msgid "Doesn't report"
+msgstr "DOESN'T REPORT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:286
+msgid "don't rotate"
+msgstr "DON'T ROTATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:287
+msgid "Don't save"
+msgstr "DON'T SAVE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:288
+msgid "down"
+msgstr "DOWN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:289
+msgid "down arrow"
+msgstr "DOWN ARROW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:290
+msgid "Dress-Up"
+msgstr "DRESS-UP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:291
+msgid "Duplicate"
+msgstr "DUPLICATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:292
+msgid "duplicate"
+msgstr "DUPLICATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:293
+msgid "e ^"
+msgstr "E ^"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:294
+msgid "edge"
+msgstr "EDGE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:295
+msgid "Edit"
+msgstr "EDIT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:296
+msgid "edit"
+msgstr "EDIT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:297
+msgid "Edit Block"
+msgstr "EDIT BLOCK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:298
+msgid "Edit block colors"
+msgstr "EDIT BLOCK COLORS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:299
+msgid "Effects"
+msgstr "EFFECTS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:300
+msgid "Electric Guitar"
+msgstr "ELECTRIC GUITAR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:301
+msgid "Electric Piano"
+msgstr "ELECTRIC PIANO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:302
+msgid "Electronic"
+msgstr "ELECTRONIC"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:303
+msgid "Ellipse"
+msgstr "ELLIPSE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:304
+msgid "Erase"
+msgstr "ERASE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:305
+msgid "Eraser width"
+msgstr "ERASER WIDTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:306
+msgid "export"
+msgstr "EXPORT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:307
+msgid "fade in"
+msgstr "FADE IN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:308
+msgid "fade out"
+msgstr "FADE OUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:309
+msgid "Fantasy"
+msgstr "FANTASY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:310
+msgid "Features"
+msgstr "FEATURES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:311
+msgid "File"
+msgstr "FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:312
+msgid "Fill with color"
+msgstr "FILL WITH COLOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:313
+msgid "fisheye"
+msgstr "FISHEYE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:314
+msgid "Flip left-right"
+msgstr "FLIP LEFT-RIGHT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:315
+msgid "Flip up-down"
+msgstr "FLIP UP-DOWN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:316
+msgid "floor"
+msgstr "FLOOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:317
+msgid "Flute"
+msgstr "FLUTE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:318
+msgid "Flying"
+msgstr "FLYING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:319
+msgid "Font:"
+msgstr "FONT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:320
+msgid "For all sprites"
+msgstr "FOR ALL SPRITES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:321
+msgid "For this sprite only"
+msgstr "FOR THIS SPRITE ONLY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:322
+msgid "Forward a layer"
+msgstr "FORWARD A LAYER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:323
+msgid "GET"
+msgstr "GET"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:324
+msgid "ghost"
+msgstr "GHOST"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:325
+msgid "Group"
+msgstr "GROUP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:326
+msgid "Grow"
+msgstr "GROW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:327
+msgid "Guiro"
+msgstr "GUIRO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:328
+msgid "Guitar"
+msgstr "GUITAR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:329
+msgid "Hack mode"
+msgstr "HACK MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:330
+msgid "Hand Clap"
+msgstr "HAND CLAP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:331
+msgid "Hardware"
+msgstr "HANDWARE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:332
+msgid "help"
+msgstr "HELP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:333
+msgid "Help"
+msgstr "HELP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:334
+msgctxt "duplicate :334:61:334"
+msgid "hide"
+msgstr "HIDE DAT SPRITE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:335
+msgid "High C"
+msgstr "HIGH C"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:336
+msgid "Holiday"
+msgstr "HOLIDAY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:337
+msgid "hour"
+msgstr "HOUR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:338
+msgid "Human"
+msgstr "HUMAN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:339
+msgid "Import"
+msgstr "IMPORT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:340
+msgid "import"
+msgstr "IMPORT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:341
+msgid "Importing sound..."
+msgstr "IMPORTING SOUND..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:342
+msgid "Indoors"
+msgstr "INDOORS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:343
+msgid "Instruments"
+msgstr "INSTRUMENTS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:344
+msgid "large readout"
+msgstr "LARGE READOUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:345
+msgid "last"
+msgstr "LAST"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:346
+msgid "left"
+msgstr "LEFT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:347
+msgid "left arrow"
+msgstr "LEFT ARROW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:348
+msgid "left-right"
+msgstr "LEFT-RIGHT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:349
+msgid "length"
+msgstr "LENGTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:350
+msgid "Letters"
+msgstr "LETTERS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:351
+msgid "Library"
+msgstr "LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:352
+msgid "light"
+msgstr "LIGHT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:353
+msgid "Line"
+msgstr "LINE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:354
+msgid "Line width"
+msgstr "LINE WIDTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:355
+msgid "list"
+msgstr "LIST"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:356
+msgid "List name"
+msgstr "LIST NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:357
+msgid "ln"
+msgstr "IN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:358
+msgid "Load Project"
+msgstr "LOAD PROJECT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:359
+msgid "log"
+msgstr "LOG"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:360
+msgid "louder"
+msgstr "LOUDER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:361
+msgctxt "duplicate :361:82:361"
+msgid "loudness"
+msgstr "LOUDNESS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:362
+msgid "Low C"
+msgstr "LOW C"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:363
+msgid "Make a Block"
+msgstr "MAKE A CUSTOM BLOCK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:364
+msgid "Make a List"
+msgstr "MAKE A LIST"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:365
+msgid "Make a Variable"
+msgstr "MAKE A VARIABLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:366
+msgid "Marimba"
+msgstr "MARIMBA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:367
+msgid "Max"
+msgstr "MAX"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:368
+msgid "Message Name"
+msgstr "MESSAGE NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:369
+msgid "message1"
+msgstr "MESSAGE1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:370
+msgid "Microphone volume:"
+msgstr "MICROPHONE VOLUME:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:371
+msgid "Middle C"
+msgstr "MIDDLE C"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:372
+msgid "Min"
+msgstr "MIN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:373
+msgid "minute"
+msgstr "MINUTE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:374
+msgid "month"
+msgstr "MONTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:375
+msgid "mosaic"
+msgstr "MOSAIC"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:376
+msgid "motion"
+msgstr "MOTION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:377
+msgid "mouse-pointer"
+msgstr "MOUSE-POINTER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:378
+msgid "Multiple"
+msgstr "MULTIPLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:379
+msgid "Music"
+msgstr "MUSIC"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:380
+msgid "Music and Dance"
+msgstr "MUSIC AND DANCE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:381
+msgid "Music Box"
+msgstr "MUSIC BOX"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:382
+msgid "Music Loops"
+msgstr "MUSIC LOOPS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:383
+msgid "Musical Notes"
+msgstr "MUSICAL NOTES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:384
+msgid "Nature"
+msgstr "NATURE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:385
+msgid "New"
+msgstr "NEW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:386
+msgid "New backdrop from camera"
+msgstr "NEW BACK DROP FROM PICTURE GRABBER THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:387
+msgid "New backdrop:"
+msgstr "NEW BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:388
+msgid "New Block"
+msgstr "NEW BLOCK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:389
+msgid "New costume from camera"
+msgstr "NEW COSTUME FROM PICTRUE GRABBER THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:390
+msgid "New costume:"
+msgstr "NEW COSTUME:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:391
+msgid "New List"
+msgstr "NEW LIST"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:392
+msgid "New Message"
+msgstr "NEW MESSAGE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:393
+msgid "new message..."
+msgstr "NEW MESSAGE..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:394
+msgid "New name"
+msgstr "NEW NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:395
+msgid "New sound:"
+msgstr "NEW SOUND:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:396
+msgid "New sprite from camera"
+msgstr "NEW SPRITE FROM PICTURE GRAPPER THINGY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:397
+msgid "New sprite:"
+msgstr "NEW SPRITE:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:398
+msgid "New Variable"
+msgstr "NEW VARIABLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:399
+msgctxt "duplicate :399:89:399"
+msgid "next backdrop"
+msgstr "NEXT BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:400
+msgid "No motion blocks"
+msgstr "NO MOTION BLOCKS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:401
+msgid "normal readout"
+msgstr "NORMAL READOUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:402
+msgid "Not saved; project didn't load."
+msgstr "NOT SAVED; PROJECT DIDN'T LOAD."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:403
+msgid "off"
+msgstr "OFF"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:404
+msgid "Offline Editor"
+msgstr "OFFLINE EDITOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:405
+msgid "OK"
+msgstr "OK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:406
+msgid "on"
+msgstr "ON"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:407
+msgid "on-flipped"
+msgstr "ON-FLIPPED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:408
+msgid "Open Cuica"
+msgstr "OPEN CUICA"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:409
+msgid "Open Hi-Hat"
+msgstr "OPEN HI-HAT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:410
+msgid "Options"
+msgstr "OPTIONS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:411
+msgid "Organ"
+msgstr "ORGAN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:412
+msgid "Other"
+msgstr "OTHER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:413
+msgid "other scripts in sprite"
+msgstr "OTHER SCRIPTS IN SPRITE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:414
+msgid "other scripts in stage"
+msgstr "OTHER SCRIPTS IN STAGE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:415
+msgid "Outdoors"
+msgstr "OUTDOORS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:416
+msgid "Paint new backdrop"
+msgstr "PAINT NEW BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:417
+msgid "Paint new costume"
+msgstr "PAINT NEW COSTUME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:418
+msgid "Paint new sprite"
+msgstr "PAINT NEW SPRITE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:419
+msgid "paste"
+msgstr "PASTE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:420
+msgid "Pencil"
+msgstr "PENCIL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:421
+msgid "People"
+msgstr "PEOPLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:422
+msgid "Percussion"
+msgstr "PERCUSSION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:423
+msgid "photo1"
+msgstr "PHOTO1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:424
+msgid "Pi"
+msgstr "RPi"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:425
+msgid "Piano"
+msgstr "PIANO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:426
+msgid "Pick up color"
+msgstr "PICK UP COLOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:427
+msgid "pixelate"
+msgstr "PIXELATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:428
+msgid "Pizzicato"
+msgstr "PIZZICATO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:429
+msgid "pop"
+msgstr "POP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:430
+msgid "previous backdrop"
+msgstr "BACK A BACK DROP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:431
+msgid "Project not saved!"
+msgstr "PROJECT NOT SAVED!"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:432
+msgid "random"
+msgstr "RANDOM"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:433
+msgid "random position"
+msgstr "RANDOM POSITION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:434
+msgid "Record"
+msgstr "RECORD"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:435
+msgid "Record new sound"
+msgstr "RECORD NEW SOUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:436
+msgid "Record Project Video"
+msgstr "RECORD PROJECT VID"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:437
+msgid "record..."
+msgstr "RECORD..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:438
+msgid "recording1"
+msgstr "RECORDING1"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:439
+msgid "Rectangle"
+msgstr "RECTANGLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:440
+msgid "Redo"
+msgstr "REDO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:441
+msgid "redo"
+msgstr "REDO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:442
+msgid "Remove Background"
+msgstr "REMOVE BACKGROUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:443
+msgid "Rename"
+msgstr "RENAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:444
+msgid "rename variable"
+msgstr "RENAME VAR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:445
+msgid "Report a bug"
+msgstr "REPORT A BUG"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:446
+msgid "Report Bug"
+msgstr "REPORT BUG"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:447
+msgid "Reports number or text"
+msgstr "REPORTS NUMBER OR TEXT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:448
+msgid "Reports true or false"
+msgstr "REPORTS YES OR NO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:449
+msgid "Reset Settings"
+msgstr "RESET SETTINGS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:450
+msgid "Reshape"
+msgstr "RESHAPE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:451
+msgid "resistance-A"
+msgstr "RESISTANCE-A"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:452
+msgid "resistance-B"
+msgstr "RESISTANCE-B"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:453
+msgid "resistance-C"
+msgstr "RESISTANCE-C"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:454
+msgid "resistance-D"
+msgstr "RESITANCE-D"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:455
+msgid "reverse"
+msgstr "REVERSE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:456
+msgid "Revert"
+msgstr "REVERT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:457
+msgid "Reverting..."
+msgstr "REVERTING..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:458
+msgid "right"
+msgstr "RIGHT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:459
+msgid "right arrow"
+msgstr "RIGHT ARROW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:460
+msgid "rotation style:"
+msgstr "ROTATION STYLE:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:461
+msgid "Run without screen refresh"
+msgstr "RUN WITHOUT SCREEN REFRESH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:462
+msgid "Save"
+msgstr "SAVE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:463
+msgid "Save now"
+msgstr "SAVE NOW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:464
+msgid "Save Project"
+msgstr "SAVE PROJECT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:465
+msgid "Save project?"
+msgstr "SAVE PROJECT?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:466
+msgid "save to local file"
+msgstr "SAVE TO LOCAL FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:467
+msgid "Saved"
+msgstr "SAVED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:468
+msgid "Saxophone"
+msgstr "SAXOPHONE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:469
+msgid "Script"
+msgstr "SCRIPT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:470
+msgid "Scripts"
+msgstr "SCRIPTS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:471
+msgid "second"
+msgstr "SECOND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:472
+msgid "Select"
+msgstr "SELECT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:473
+msgid "select all"
+msgstr "SELECT ALL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:474
+msgid "Select and duplicate"
+msgstr "SELECT AND DUPLICATE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:475
+msgid "Send to back"
+msgstr "SEND TO BACK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:476
+msgid "Set costume center"
+msgstr "SET COSTUME CENTER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:477
+msgid "Set Costume Center"
+msgstr "SET COSTUME CENTER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:478
+msgid "set slider min and max"
+msgstr "SET SLIDER MIN AND MAX"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:479
+msgid "Settings"
+msgstr "SETTINGS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:480
+msgid "shared"
+msgstr "SHARE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:481
+msgid "Sharp Scratch mod by DrKat123, Mrcomputer1 and some others"
+msgstr "SHARP SCRATCH MOD BY DRKAT123 MRCOMPUTER1 AND SOME OTHERS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:482
+msgid "Shift:"
+msgstr "SHIFT:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:483
+msgctxt "duplicate :483:135:483"
+msgid "show"
+msgstr "SHOW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:484
+msgid "show:"
+msgstr "SHOW:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:485
+msgid "Shrink"
+msgstr "SHRINK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:486
+msgid "Side Stick"
+msgstr "SIDE STICK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:487
+msgid "silence"
+msgstr "SILENCE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:488
+msgid "sin"
+msgstr "SIN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:489
+msgid "slider"
+msgstr "SLIDER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:490
+msgid "Slider Range"
+msgstr "SLIDER RANGE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:491
+msgid "Small stage layout"
+msgstr "SMALL STAGE LAYOUT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:492
+msgid "Smooth"
+msgstr "SMOOTH"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:493
+msgid "Snare Drum"
+msgstr "SNARE DRUM"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:494
+msgid "softer"
+msgstr "SOFTER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:495
+msgctxt "duplicate :495:139:495"
+msgid "Sound"
+msgstr "SOUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:496
+msgid "sound"
+msgstr "SOUND"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:497
+msgid "Sound Library"
+msgstr "SOUND LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:498
+msgid "Sounds"
+msgstr "SOUNDS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:499
+msgid "Space"
+msgstr "SPACE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:500
+msgid "space"
+msgstr "SPACE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:501
+msgid "Sports"
+msgstr "SPORTS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:502
+msgid "Sprite"
+msgstr "SPRITE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:503
+msgid "Sprite Library"
+msgstr "SPRITE LIBRARY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:504
+msgid "Sprites"
+msgstr "SPRITES"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:505
+msgid "sqrt"
+msgstr "SQRT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:506
+msgid "Square"
+msgstr "SQUARE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:507
+msgid "Stage"
+msgstr "STAGE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:508
+msgid "Stage selected:"
+msgstr "STAGE SELECTED:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:509
+msgid "Steel Drum"
+msgstr "STELL DRUM"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:510
+msgid "Synth Lead"
+msgstr "SYNTH LEAD"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:511
+msgid "Synth Pad"
+msgstr "SYNTH PAD"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:512
+msgid "Tambourine"
+msgstr "TAMBOURINE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:513
+msgid "tan"
+msgstr "TAN"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:514
+msgid "Text"
+msgstr "TEXT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:515
+msgid "that way"
+msgstr "THAT WAY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:516
+msgid "Theme"
+msgstr "THEME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:517
+msgid "Things"
+msgstr "THINGS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:518
+msgid "This project can detect who is using it, through the “username” block."
+msgstr "THIS PROJECT CAN DETECT WHO IS USING IT, THROUGHT THE \"USERNAME\" BLOCK."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:518
+#, Segment
+msgid "To hide your identity, sign out before using the project."
+msgstr "TO HIDE WHO YOU ARE, SIGN OUT BEFORE PUTTING YOUR PAW ON THE GREEN FLAG."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:519
+msgid "this script"
+msgstr "THIS SCRIPT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:520
+msgid "this way"
+msgstr "THIS WAY"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:521
+msgid "Throw away all changes since opening this project?"
+msgstr "THROW AWAY ALL CHANGES SINCE OPENING THIS PROJECT?"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:522
+msgctxt "duplicate :522:154:523"
+msgid "timer"
+msgstr "TIMER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:523
+msgid "Tips"
+msgstr "TIPS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:524
+msgid "Title"
+msgstr "TITLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:525
+msgid "To delete a block definition, first remove all uses of the block."
+msgstr "TO DELETE A BLOCK DEFINE, FIRST REMOVE ALL USES OF BLOCK."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:526
+msgid "Transportation"
+msgstr "TRANSPORTATION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:527
+msgid "Triangle"
+msgstr "TRIANGLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:528
+msgid "Trombone"
+msgstr "TROMBONE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:529
+msgid "Turbo mode"
+msgstr "TURBO MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:530
+msgid "Turbo Mode"
+msgstr "TURBO MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:531
+msgid "Type"
+msgstr "TYPE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:532
+msgid "Undelete"
+msgstr "UNDELETE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:533
+msgid "Underwater"
+msgstr "UNDERWATER"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:534
+msgid "Undo"
+msgstr "UNDO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:535
+msgid "undo"
+msgstr "UNDO"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:536
+msgid "Undo Revert"
+msgstr "UNDO REVERT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:537
+msgid "Ungroup"
+msgstr "UNGROUP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:538
+msgid "unshared"
+msgstr "UNSHARED"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:539
+msgid "up"
+msgstr "UP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:540
+msgid "up arrow"
+msgstr "UP ARROW"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:541
+msgid "Upload backdrop from file"
+msgstr "UPLOAD BACK DROP FROM FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:542
+msgid "Upload costume from file"
+msgstr "UPLOAD COSTUME FROM FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:543
+msgid "Upload sound from file"
+msgstr "UPLOAD SOUND FROM FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:544
+msgid "Upload sprite from file"
+msgstr "UPLOAD SPRITE FROM FILE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:545
+msgid "Uploading image..."
+msgstr "UPLOADING IMAGE..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:546
+msgid "Uploading sound..."
+msgstr "UPLOADING SOUND..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:547
+msgid "Uploading sprite..."
+msgstr "UPLOADING SPRITE..."
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:548
+msgid "variable"
+msgstr "VARIABLE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:549
+msgid "Variable name"
+msgstr "VARIABLE NAME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:550
+msgid "Vector"
+msgstr "VECTOR"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:551
+msgid "Vector Mode"
+msgstr "VECTOR MODE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:552
+msgid "Vibraphone"
+msgstr "VIBRAPHONE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:553
+msgid "Vibraslap"
+msgstr "VIBRASLAP"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:554
+msgid "video direction"
+msgstr "VID DIRECTION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:555
+msgid "video motion"
+msgstr "VID MOTION"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:556
+msgid "Video on:"
+msgstr "VID ON:"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:557
+msgid "Vocals"
+msgstr "VOCALS"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:558
+msgctxt "duplicate :558:166:559"
+msgid "volume"
+msgstr "VOLUME"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:559
+msgid "Walking"
+msgstr "WALKING"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:560
+msgid "Which column do you want to import"
+msgstr "WHICH COLUMN DO YOU WANT TO IMPORT"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:561
+msgid "whirl"
+msgstr "WHIRL"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:562
+msgid "Wood Block"
+msgstr "WOOD BLOCK"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:563
+msgid "Wooden Flute"
+msgstr "WOODEN FLUTE"
+
+#: C:\Users\(Private)\Documents\Helper\__DEV__\SharpMod\sharp-translate\merge.txt:564
+msgid "year"
+msgstr "YEAR"
