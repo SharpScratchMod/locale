@@ -93,4 +93,4 @@ We do not want many joke languages as they will fill the language drop down with
 4. Select new Sharp.pot downloaded from this repo
 5. Press Start update...
 6. Press update
-7. File will be renammed (name).mrg.po
+7. File will be renamed (name).mrg.po
